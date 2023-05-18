@@ -1,0 +1,102 @@
+[
+    {
+        
+        "service_id": "03",
+        "title": "Learn With Rakib",
+        "category": "Full Stack",
+        "img": "https://i.ibb.co/gg3pqW8/dish-08-1-360x360.jpg",
+        "img2": "https://i.ibb.co/h9qPqNL/fitmeal4.png",
+        "img3": "https://i.ibb.co/Yj5WMRT/fitmeal2.png",
+        "img4": "https://i.ibb.co/J7yR26Y/fitmeal3.png",
+        "live": "https://i.ibb.co/J7yR26Y/fitmeal3.png",
+        "github": "https://i.ibb.co/J7yR26Y/fitmeal3.png",
+        "linkedin": "https://i.ibb.co/J7yR26Y/fitmeal3.png",
+
+        "love": "100",
+        "description": "Learn With Rakib is a learning platform website. April 2023, May 10, 2023 Overview: This project is a client site website, we have developed this project with 9 team members. This is a learning platform website. I worked as a full stack developer in my project. This project is a client site Project, we have developed this technology with 9 team members.• I have integrated ReactJS for the Front-End part. Used paid Firebase for Authentication. The main intendeds of this project These websites can be useful for Learning platform. In Back-End, I used MongoDB to store website data. To connect paid MongoDB and the Client site. | Client Site | Server SiteTechnologies used: React app, React-router, Firebase, MongoDB, React-photo-view, Tailwind CSS, DaisyUI, React toastify. I used Back-End Node.js.",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        
+        "service_id": "02",
+        "title": "Doctors Portal",
+        "category": "Full Stack",
+        "img": "https://i.ibb.co/bJcsYP2/doctors-portal.png",
+        "img2": "https://i.ibb.co/DGZF059/doc4.png",
+        "img3": "https://i.ibb.co/PYZLFTM/doc5.png",
+        "img4": "https://i.ibb.co/pjsLg1M/doc6.png",
+        "live": "",
+        "github": "https://i.ibb.co/J7yR26Y/fitmeal3.png",
+        "linkedin": "https://i.ibb.co/J7yR26Y/fitmeal3.png",
+        "love": "20.00",
+        "description": "Performance Tracker is a company performance website. January 2023, February 1, 2023 Overview: This project is a team project of ours, we have developed this technology with 6 team members. This is a company performance website. I worked as a full stack developer in my project. This project is a team project of ours, we have developed this technology with 6 team members. I have integrated ReactJS for the Front-End part. Used Firebase for Authentication. The main intendeds of this project These websites can be useful for company performance.In Back-End, I used MongoDB to store website data. To connect MongoDB and the Client site.. Live Website | Client Site | Server Site Technologies used: React app,React-route Firebase, MongoDB,React-photo-view, Tailwind CSS, DaisyUI, React-toastify, React-stripes, React Calendar. I used Back-End Node.js.",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "01",
+        "title": "GariBazer",
+        "category": "Full Stack",
+        "img": "https://i.ibb.co/KxfXtbb/reselling-car.png",
+        "img2": "https://i.ibb.co/ynqdrbc/car2.png",
+        "img3": "https://i.ibb.co/d0N5YS4/car3.png",
+        "img4": "https://i.ibb.co/GRbPbj9/car4.png",
+        "live": "https://i.ibb.co/J7yR26Y/fitmeal3.png",
+        "github": "https://i.ibb.co/J7yR26Y/fitmeal3.png",
+        "linkedin": "https://i.ibb.co/J7yR26Y/fitmeal3.png",
+        "love": "200.00",
+        "description": "Reselling-Car: an online resell Car service website. I have integrated ReactJS for the Front-End part. December 2022, current I have integrated ReactJS for the Front-End part. Used Firebase for Authentication. The intent of this project is for the user buying to use a Car very easily.In Back-End, I used MongoDB to store website data. To connect MongoDB and the Client site.Live Website | Client Site | Server Site Technologies used: React app, React-router, Firebase, MongoDB, React-photo-view, Tailwind CSS, Daisy UI, React-toast React-Stripe. I used Back-End Node.js.",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    }
+    
+]
